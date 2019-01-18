@@ -3,3 +3,4 @@
 #adding change to test commit feature
 
 test edits
+commit edits to test features
